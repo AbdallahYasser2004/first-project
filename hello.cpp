@@ -10,6 +10,6 @@ int main()
     cout.tie(0);
 
     cout << "Hello world!" << endl;
-    cout<<"leh";
+    cout<<"le";
     return 0;
 }
